@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
 @Controller
-public class Control {
+public class COntrol {
     @Autowired
     private TaskService ts;
     @GetMapping("/alltasks")
@@ -44,4 +44,3 @@ public class Control {
     }
     
 }
-

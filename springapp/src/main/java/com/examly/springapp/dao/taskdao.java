@@ -7,4 +7,3 @@ import org.springframework.data.jpa.repository.JpaRepository;
 public interface Taskdao extends JpaRepository<Task,Long> {
     
 }
-
