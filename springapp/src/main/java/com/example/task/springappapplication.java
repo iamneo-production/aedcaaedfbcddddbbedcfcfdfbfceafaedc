@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TaskManagementApplication {
 
     public static void main(String[] args) {
-        SpringappApplication.run(TaskManagementApplication.class, args);
+        Springappapplication.run(TaskManagementApplication.class, args);
     }
 
 }
