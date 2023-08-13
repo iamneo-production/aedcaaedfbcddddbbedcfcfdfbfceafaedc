@@ -1,13 +1,30 @@
-package com.examly.springapp;
+package com.example.task;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringappApplication {
+public class TaskManagementApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpringappApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(TaskManagementApplication.class, args);
+    }
 
 }
+
+
+
+
+// package com.examly.springapp;
+
+// import org.springframework.boot.SpringApplication;
+// import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+// @SpringBootApplication
+// public class SpringappApplication {
+
+// 	public static void main(String[] args) {
+// 		SpringApplication.run(SpringappApplication.class, args);
+// 	}
+
+// }
